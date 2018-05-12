@@ -1,0 +1,30 @@
+_repo: A-Successful-Shadow--Or-A-Detective-s-Successful-Quest_26175
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Old Sleuth
+    aliases:
+    - Halsey, Harlan Page
+    - Pastor, Tony
+    - Sleuth, Old
+    birthdate: 1837
+    deathdate: 1898
+    gutenberg_agent_id: '1747'
+    url: http://www.gutenberg.org/2009/agents/1747
+description: ''
+gutenberg_issued: '2008-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26175'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Detective and mystery stories'
+title: A Successful Shadow; Or, A Detective's Successful Quest
+url: http://www.gutenberg.org/ebooks/26175
